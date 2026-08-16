@@ -1,4 +1,4 @@
-# Hey, I'm Midhun 👋
+# Hey, I'm Midhun P M👋
 
 CS undergrad at Sahrdaya College of Engineering (CGPA 9.75) — I build AI agents,
 full-stack apps, and self-hosted infrastructure. IEEE Technical Coordinator.
