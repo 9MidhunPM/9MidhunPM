@@ -1,40 +1,70 @@
-# Hey, I'm Midhun P M👋
+<a href="https://midhunpm.in">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-hero.png">
+    <img src="assets/profile-hero.gif" alt="Midhun P M — practical AI, developer tools, and web products." width="100%">
+  </picture>
+</a>
 
-CS undergrad at Sahrdaya College of Engineering (CGPA 9.75) — I build AI agents,
-full-stack apps, and self-hosted infrastructure. IEEE Technical Coordinator.
-Top 10 @ OpenAI Codex Nightline Hackathon.
+# Hey, I'm Midhun P M.
 
-🌐 **[midhunpm.in](https://midhunpm.in)**
+I build **AI systems, developer tools, and web products** — from a Linux assistant that runs local models to a Rust CLI that keeps AI clients in sync. I care about visible tool calls, useful failures, and software that holds up after the demo.
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhun-pm-b947a1279/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TitanExists)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midhun.titan@gmail.com)
+Third-year CSE student at **Sahrdaya College of Engineering and Technology** · Kerala, India<br>
+**IEEE Technical Coordinator** · Class of 2028 · CGPA **9.70**
 
-## 🔨 What I'm Building
-- **[MetroMind](https://midhunpm.in)** — WhatsApp AI agent for Kochi Metro commutes (n8n + FastAPI + LangChain + GTFS). Top 10 at OpenAI Codex Nightline Hackathon
-- **WC Predict '26** — FIFA World Cup prediction game for IEEE Sahrdaya (TanStack Start + PocketBase)
-- **Thursday** — Local LLM assistant with tool calling, SQLite memory, and multi-platform integrations (llama.cpp + Qwen3)
-- **Homeserver stack** — Dokploy, Traefik, n8n, PocketBase, Cloudflare Tunnel on self-hosted Dell server
+**[Portfolio ↗](https://midhunpm.in)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/midhun-pm-b947a1279/)** &nbsp; / &nbsp; **[Email ↗](mailto:midhun.titan@gmail.com)**
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=9MidhunPM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=9MidhunPM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=9MidhunPM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Open to internships in **backend engineering, AI systems, and performance-sensitive software**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=9MidhunPM&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 01 / Selected builds
+
+#### [PRISM](https://github.com/9MidhunPM/prism) — AI that shows its work
+
+An evidence-first workspace for reviewing handwritten exam papers. Connects answers to rubrics, surfaces uncertainty, and keeps the teacher in control of the final assessment.
+
+`Next.js` `FastAPI` `OpenAI` `SQLite` `Docker`<br>
+**2nd place · AI Innovation Hackathon 2026, ASIET**<br>
+[Source ↗](https://github.com/9MidhunPM/prism) · [The build story ↗](https://midhunpm.in/projects/prism)
+
+#### [Thursday](https://github.com/9MidhunPM/thursday-local-assistant) — an assistant at home on Linux
+
+A local-first desktop assistant with visible tool calls, persistent memory, voice, and a Codex project studio. Runs with local models through llama.cpp/Vulkan or an OpenAI-compatible cloud provider.
+
+`Python` `React` `llama.cpp` `Vulkan` `SQLite` `Codex CLI`<br>
+[Source ↗](https://github.com/9MidhunPM/thursday-local-assistant) · [The build story ↗](https://midhunpm.in/projects/thursday)
+
+#### [Syncplane](https://github.com/9MidhunPM/syncplane) — one MCP config, five AI clients
+
+A local-first Rust CLI that projects one canonical MCP configuration into supported AI clients, with reviewable plans, explicit ownership, and OS-keyring-backed secrets.
+
+`Rust` `MCP` `TOML` `JSONC` `OS Keyring`<br>
+[Source ↗](https://github.com/9MidhunPM/syncplane) · [Website ↗](https://syncplane.midhunpm.in) · [The build story ↗](https://midhunpm.in/projects/syncplane)
+
+**Also built**<br>
+[MetroMind](https://midhunpm.in/projects/metromind) — a WhatsApp AI agent for Kochi Metro commutes.<br>
+[ETLab+](https://midhunpm.in/projects/etlab-plus) — a mobile student companion for the college ERP.<br>
+[WC Predict ’26](https://midhunpm.in/projects/wc-predict-26) — IEEE Sahrdaya's World Cup prediction platform.
+
+### 02 / Out of the terminal
+
+- **2nd place, ASIET AI Innovation Hackathon** — built PRISM in 24 hours. [Build note ↗](https://midhunpm.in/blog/building-prism-at-adi-shankara-ai-innovation-hackathon)
+- **Selected, OpenAI Codex Community Hackathon · Bengaluru** — brought Thursday to the August 2026 event. [Build note ↗](https://midhunpm.in/blog/taking-thursday-to-openai-codex-community-hackathon-bengaluru)
+- **Top 10, OpenAI Codex Nightline · Kochi** — built MetroMind at the July 2026 metro sprint. [Project ↗](https://midhunpm.in/projects/metromind)
+
+### 03 / My workbench
+
+**Languages** &nbsp; Python · Rust · TypeScript · C / C++<br>
+**Products** &nbsp; React · Next.js · FastAPI · React Native · Spring Boot<br>
+**AI & tools** &nbsp; LangGraph · LangChain · llama.cpp · Playwright · MCP<br>
+**Infrastructure** &nbsp; Linux · Docker · Dokploy · AWS · Tailscale
+
+Off the main branch: running models on an **Intel Arc GPU**, self-hosting on an **Ubuntu home server**, and writing **C++ without a game engine**.
+
+---
+
+**Have something worth building? [Let's talk. ↗](mailto:midhun.titan@gmail.com)**<br>
+More projects, writing, and the reasoning behind the code → **[midhunpm.in](https://midhunpm.in)**
+
+<sub>[Static banner](assets/profile-hero.png) · Profile facts refreshed September 2026.</sub>
