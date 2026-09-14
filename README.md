@@ -20,6 +20,13 @@ Open to internships in **backend engineering, AI systems, and performance-sensit
 
 ### 01 / Selected builds
 
+#### [Noolu Pidichaal Mathi](https://github.com/9MidhunPM/NooluPidichaalMathii) — a metro map hiding in an idiyappam
+
+I turned an idiyappam photograph into NoolVerse: a fictional, routeable metro system with image processing, shortest-path routing, and a 3D explorer.
+
+`Next.js` `FastAPI` `OpenCV` `PostgreSQL` `Three.js` `Docker`<br>
+[Source ↗](https://github.com/9MidhunPM/NooluPidichaalMathii) · [Try NoolVerse ↗](https://idiyappam.midhunpm.in) · [The build story ↗](https://midhunpm.in/projects/noolu-pidichaal-mathi)
+
 #### [PRISM](https://github.com/9MidhunPM/prism) — AI that shows its work
 
 An evidence-first workspace for reviewing handwritten exam papers. Connects answers to rubrics, surfaces uncertainty, and keeps the teacher in control of the final assessment.
