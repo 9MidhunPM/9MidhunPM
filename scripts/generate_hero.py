@@ -42,8 +42,8 @@ def render(sans_path, mono_path):
     d.text((52, 453), 'PYTHON / RUST / NEXT.JS / FASTAPI', font=mono(15), fill=MUTED)
     d.text((1065, 453), 'midhunpm.in', font=mono(15), fill=LIME)
 
-    nodes = [('01', 'PRISM', 'EVIDENCE-FIRST AI'),
-             ('02', 'THURSDAY', 'LOCAL-FIRST ASSISTANT'),
+    nodes = [('01', 'NOOLVERSE', 'IMAGE TO METRO MAP'),
+             ('02', 'PRISM', 'EVIDENCE-FIRST AI'),
              ('03', 'SYNCPLANE', 'MCP CONFIG CONTROL')]
     d.line((823, 156, 823, 372), fill='#4D542B', width=2)
     for i, (number, title, subtitle) in enumerate(nodes):
@@ -55,7 +55,7 @@ def render(sans_path, mono_path):
         d.text((910, y + 10), title, font=mono(26), fill=WHITE)
         d.text((910, y + 52), subtitle, font=mono(14), fill=MUTED)
 
-    commands = ['build --with-evidence', 'run --local-first', 'ship --with-intent']
+    commands = ['map --from-idiyappam', 'review --show-evidence', 'sync --preview-changes']
     frames, durations = [], []
     for node, command in enumerate(commands):
         # Type, then hold. No flashing, zooming, or full-frame transitions.
