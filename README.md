@@ -7,7 +7,7 @@
 
 # Hey, I'm Midhun P M.
 
-I build **AI systems, developer tools, and web products** — from a Linux assistant that runs local models to a Rust CLI that keeps AI clients in sync. I care about visible tool calls, useful failures, and software that holds up after the demo.
+I build **AI systems, developer tools, and web products** — from a Linux assistant that runs local models to a Rust CLI that keeps AI clients in sync. I care about visible tool calls, useful failure states, and software that holds up after the demo.
 
 Third-year CSE student at **Sahrdaya College of Engineering and Technology** · Kerala, India<br>
 **IEEE Technical Coordinator** · Class of 2028 · CGPA **9.70**
@@ -68,6 +68,12 @@ A local-first Rust CLI that projects one canonical MCP configuration into suppor
 **Infrastructure** &nbsp; Linux · Docker · Dokploy · AWS · Tailscale
 
 Off the main branch: running models on an **Intel Arc GPU**, self-hosting on an **Ubuntu home server**, and writing **C++ without a game engine**.
+
+### 04 / Notes from the workbench
+
+- [Running local LLMs on an Intel Arc GPU with Vulkan and llama.cpp ↗](https://midhunpm.in/blog/running-llms-on-intel-arc-vulkan) — what works when the GPU is not NVIDIA.
+- [Building PRISM in 24 hours at ASIET ↗](https://midhunpm.in/blog/building-prism-at-adi-shankara-ai-innovation-hackathon) — the guardrails behind an evidence-first review tool.
+- [Building an adaptive interview system at VicoDathon ↗](https://midhunpm.in/blog/building-probe-interview-at-vicodathon) — why I used a graph instead of one supervisor prompt.
 
 ---
 
