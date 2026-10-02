@@ -63,6 +63,7 @@ A local-first Rust CLI that projects one canonical MCP configuration into suppor
 
 ### 02 / Out of the terminal
 
+- **🥈 Second Prize, Codex Community Hackathon · Calicut** — built NightWatch. Prize: **3 months of ChatGPT Pro + $500 OpenAI API credits**. [Build note ↗](https://midhunpm.in/blog/building-nightwatch-at-codex-community-hackathon-calicut)
 - **2nd place, ASIET AI Innovation Hackathon** — built PRISM in 24 hours. [Build note ↗](https://midhunpm.in/blog/building-prism-at-adi-shankara-ai-innovation-hackathon)
 - **Selected, OpenAI Codex Community Hackathon · Bengaluru** — brought Thursday to the August 2026 event. [Build note ↗](https://midhunpm.in/blog/taking-thursday-to-openai-codex-community-hackathon-bengaluru)
 - **Top 10, OpenAI Codex Nightline · Kochi** — built MetroMind at the July 2026 metro sprint. [Project ↗](https://midhunpm.in/projects/metromind)
@@ -88,4 +89,4 @@ Off the main branch: running models on an **Intel Arc GPU**, self-hosting on an 
 **Have something worth building? [Let's talk. ↗](mailto:midhun.titan@gmail.com)**<br>
 More projects, writing, and the reasoning behind the code → **[midhunpm.in](https://midhunpm.in)**
 
-<sub>[Static banner](assets/profile-hero.png) · Profile facts refreshed September 2026.</sub>
+<sub>[Static banner](assets/profile-hero.png) · Profile facts refreshed October 2026.</sub>
